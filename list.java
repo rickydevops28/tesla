@@ -6,3 +6,6 @@ chi
 ope
 mercy
 lime
+oranges
+mango
+pine
